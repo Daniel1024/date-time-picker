@@ -5,12 +5,12 @@ Angular Date Time Picker
 [![npm](https://img.shields.io/npm/dm/ng-pick-datetime.svg)](https://www.npmjs.com/package/ng-pick-datetime)
 
 **Angular date time picker - Angular reusable UI component**
-**This package supports Angular 8**
+**This package only supports Angular 11 and 12**
 
 
 Breaking Changes
 -------
- - The picker has been updated for Angular 7+ apps.
+ - The picker has been updated for Angular 11+ apps.
 
 Description
 -------

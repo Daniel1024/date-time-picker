@@ -1,6 +1,6 @@
 {
   "name": "ng-pick-datetime",
-  "version": "11.0.5",
+  "version": "11.0.6",
   "description": "Angular Date Time Picker",
   "keywords": [
     "Angular",
@@ -20,8 +20,8 @@
     "moment": "^2.29.1"
   },
   "peerDependencies": {
-    "@angular/common": "^11.2.14",
-    "@angular/core": "^11.2.14",
-    "@angular/cdk": "^11.2.13"
+    "@angular/common": "^11.2.14 || ^12.2.3",
+    "@angular/core": "^11.2.14 || ^12.2.3",
+    "@angular/cdk": "^11.2.13 || ^12.2.3"
   }
 }
